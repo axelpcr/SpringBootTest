@@ -1,12 +1,12 @@
-package test.web;
+package zergling.web;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import test.model.Zergling;
-import test.service.ZerglingService;
+import zergling.model.Zergling;
+import zergling.service.ZerglingService;
 
 @RestController
 public class ZerglingWebService {

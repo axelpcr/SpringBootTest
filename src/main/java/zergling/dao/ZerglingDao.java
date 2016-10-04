@@ -1,8 +1,8 @@
-package test.dao;
+package zergling.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import test.model.Zergling;
+import zergling.model.Zergling;
 
 
 /**

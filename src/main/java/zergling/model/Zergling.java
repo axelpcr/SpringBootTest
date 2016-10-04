@@ -1,4 +1,4 @@
-package test.model;
+package zergling.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

@@ -1,9 +1,9 @@
-package test.service;
+package zergling.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import test.dao.ZerglingDao;
-import test.model.Zergling;
+import zergling.dao.ZerglingDao;
+import zergling.model.Zergling;
 
 import java.util.List;
 
